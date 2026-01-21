@@ -4,7 +4,7 @@
 
 A lightweight UI extension for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that adds a smart "Heads-Up Display" (HUD) to your nodes. It allows you to stack nodes behind one another to clean up your workspace, while still seeing exactly what is happening inside the stack via a sleek, tinted-glass dock.
 
-![Main Screenshot](placeholder_for_your_screenshot.png)
+![Demo GIF](mainuse.gif)
 
 ## ✨ Features
 
@@ -47,7 +47,7 @@ The dock uses a semi-transparent dark background (85% opacity) to ensure readabi
     ```
 2.  Clone this repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ComfyUI-Clean-Dock.git](https://github.com/YOUR_USERNAME/ComfyUI-Clean-Dock.git)
+    git clone https://github.com/loficoding/ComfyUI-Node-HUD.git 
     ```
 3.  **Restart ComfyUI**.
 
