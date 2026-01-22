@@ -1,2 +1,2 @@
-WEB_DIRECTORY = "./web/js" 
+WEB_DIRECTORY = "./web" 
 __all__ = ["WEB_DIRECTORY"]
