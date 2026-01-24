@@ -1,6 +1,6 @@
 [project]
 name = "node-hudComfyUI-Node-HUD"
-description = ""
+description = "Adds a smart I/O status dock to stacked nodes for cleaner layouts."
 version = "1.2.1"
 license = {file = "LICENSE"} 
 # classifiers = [
