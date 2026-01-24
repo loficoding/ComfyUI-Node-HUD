@@ -2,6 +2,9 @@
 name = "ComfyUI-Node-HUD"
 description = "Adds a smart I/O status dock to stacked nodes for cleaner layouts."
 version = "1.2.4"
+name = "node-hudComfyUI-Node-HUD"
+description = "Adds a smart I/O status dock to stacked nodes for cleaner layouts."
+version = "1.2.1"
 license = {file = "LICENSE"} 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
@@ -30,7 +33,11 @@ Documentation = "https://github.com/loficoding/ComfyUI-Node-HUD/wiki"
 [tool.comfy]
 PublisherId = "loficoding"
 DisplayName = "ComfyUI-Node-HUD"
+<<<<<<< HEAD
 Icon = "icon.png"
+=======
+Icon = ""
+>>>>>>> d2354f644f04494d17382fa5145f05b47fea6aea
 includes = [] 
 # "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
 
