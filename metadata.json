@@ -1,0 +1,7 @@
+{
+    "name": "ComfyUI-Node-HUD",
+    "version": "1.2.0",
+    "author": "loficoding",
+    "description": "A smart heads-up display for stacked nodes with a tinted-glass UI.",
+    "repository": "https://github.com/loficoding/ComfyUI-Node-HUD"
+}
